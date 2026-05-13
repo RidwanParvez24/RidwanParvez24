@@ -116,7 +116,7 @@ Each project includes:
 ## 📫 Let's Connect
 
 - **GitHub** → You're here! Explore my projects
-- **LinkedIn** → [Connect with me](https://linkedin.com/in/RidwanParvez24)
+- **LinkedIn** → [Connect with me](https://www.linkedin.com/in/ridwan-parvez/)
 - **Open for Collaboration** → Data analytics, BI development, optimization projects
 
 ---
