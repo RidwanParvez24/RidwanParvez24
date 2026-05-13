@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Ridwan Parvez - Data Analytics & Business Intelligence Specialist
 
-<!--
-**RidwanParvez24/RidwanParvez24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I transform business data into actionable insights through advanced analytics, visualization, and strategic optimization.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+
+I'm a **Data Analytics & Business Intelligence Professional** specializing in:
+- **Retail & E-Commerce Analytics** - Sales optimization, customer behavior, inventory management
+- **Financial Analytics** - Credit card insights, budget tracking, transaction analysis
+- **Supply Chain Optimization** - Demand forecasting, inventory optimization, cost reduction
+- **HR Analytics** - Employee attrition analysis, workforce planning, retention strategies
+
+I help organizations make **data-driven decisions** that drive profitability, efficiency, and growth.
+
+---
+
+## 🔧 Core Tech Stack
+
