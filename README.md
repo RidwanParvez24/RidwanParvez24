@@ -4,47 +4,64 @@
 
 ### Data Analyst · BI Developer · Analytics Automation
 
-I turn complex operational and e-commerce data into clear, automated reporting and measurable business results.
+I build practical analytics that make complex factory and e-commerce operations easier to understand—and act on.
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=111111)](https://powerbi.microsoft.com/)
 [![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20SQLite%20%7C%20Oracle-4B86A6?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/RidwanParvez24)
 [![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
-[![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
-[Portfolio](https://github.com/RidwanParvez24) · [LinkedIn](https://www.linkedin.com/in/ridwan-parvez/)
+[Overview website source](https://github.com/RidwanParvez24/github-overview) · [LinkedIn](https://www.linkedin.com/in/ridwan-parvez/)
 
 </div>
 
 ---
 
-## Overview
+## About
 
-I'm a data analyst specializing in **Power BI, SQL, and Python-driven automation**, with hands-on experience across **manufacturing/RMG operations and e-commerce analytics since 2022**.
+I'm a data analyst specializing in **Power BI, SQL, and Python-driven automation**, with hands-on experience across **manufacturing/RMG operations and e-commerce analytics since 2022**. I turn fragmented reporting and business data into reliable dashboards, automated workflows, and useful decisions.
 
-At **Fakir Apparels Ltd.**, I engineered a factory-wide, ERP-driven reporting system covering the complete order lifecycle—from yarn purchase through dyeing, cutting, sewing, and shipment. It replaced a **20-day manual MIS process with same-day reporting** and reduced manual reporting effort by **over 90%**.
+## Selected impact
 
-Alongside my full-time roles, I founded **InsightEdge Analytics**, an independent analytics practice serving **35+ e-commerce brands** across the USA, UK, and UAE.
-
-### Selected impact
-
-| Outcome | Result |
+| Business challenge | Result |
 | --- | --- |
-| Shopify client sales growth | **27%** |
-| ROAS improvement for a UAE fashion brand | **40%** |
-| Client reporting time reduced with SQL & Python | **30%** |
-| Customer analytics | **RFM segmentation, churn prediction & LTV modeling** |
+| Factory-wide order lifecycle reporting at Fakir Apparels Ltd. | Replaced a **20-day manual MIS process** with same-day, ERP-driven reporting; reduced manual reporting effort by **over 90%** |
+| E-commerce analytics through InsightEdge Analytics | Serving **35+ brands** across the USA, UK, and UAE |
+| Shopify sales optimization | **27% sales growth** for a client |
+| Paid campaign performance | **40% ROAS improvement** for a UAE-based fashion brand |
+| Repetitive client reporting | **30% less reporting time** using automated SQL and Python pipelines |
+| Customer retention and value | RFM segmentation, churn prediction, and LTV modeling |
 
-## What I work with
+## Projects
 
-- **Business intelligence:** Power BI, DAX, Power Query, Tableau, KPI and dashboard design
+A selection of public projects exploring analytics, dashboards, and business problem-solving:
+
+| Project | Focus |
+| --- | --- |
+| [Retail Analytics Engine — Coffee Shop Sales](https://github.com/RidwanParvez24/Retail_Analytics_Engine_Coffee_Shops_Sales) | Retail sales analysis and actionable insights for coffee shop performance |
+| [Blinkit Data Analytics](https://github.com/RidwanParvez24/Blinkit_Data_Analytics) | Quick-commerce and retail analytics |
+| [Financial Dashboard — Credit Card Analytics](https://github.com/RidwanParvez24/Financial_Dashboard_Credit_Card_Analytics) | Power BI dashboard for credit card analytics |
+| [HR Analytics Dashboard — Employee Attrition](https://github.com/RidwanParvez24/HR_Analytic_Dashboard_Employee_Attrition) | Workforce and employee attrition analytics |
+| [Inventory Management — Supply Chain Optimization](https://github.com/RidwanParvez24/Inventory_Management_System_Supply_Chain_Optimization) | Inventory and supply chain analysis |
+| [Coffee Shop Sales — Excel](https://github.com/RidwanParvez24/Coffee_shop_sell) | Sales analysis using Excel |
+
+## Toolkit
+
+- **Analytics & BI:** Power BI, DAX, Power Query, Tableau, KPI and dashboard design
 - **Data & automation:** SQL (MySQL, SQLite, Oracle), Python, ETL pipeline design, Advanced Excel
-- **Domain experience:** Manufacturing/RMG operations, retail, e-commerce, supply chain
-- **Analytics:** Sales and ROAS optimization, customer segmentation, churn prediction, LTV modeling
+- **Business systems:** Logic ERP, Datatex ERP
+- **Domains:** Manufacturing/RMG, retail, e-commerce, supply chain
+- **Methods:** Sales and ROAS analysis, RFM segmentation, churn prediction, LTV modeling
 
-## Live GitHub snapshot
+## Experience
 
-These cards refresh from my public GitHub profile. They are served by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
+| Organization | Focus |
+| --- | --- |
+| **Fakir Apparels Ltd.** | Factory-wide ERP-driven reporting and end-to-end manufacturing order lifecycle analytics |
+| **InsightEdge Analytics** | Founder; independent analytics practice serving e-commerce brands across the USA, UK, and UAE |
+
+## GitHub at a glance
 
 <div align="center">
   <a href="https://github.com/RidwanParvez24">
@@ -59,6 +76,6 @@ These cards refresh from my public GitHub profile. They are served by [GitHub Re
 
 <div align="center">
 
-**Interested in analytics, BI, or reporting automation?** [Let's connect on LinkedIn](https://www.linkedin.com/in/ridwan-parvez/).
+**Have a data or reporting challenge?** [Let's connect on LinkedIn](https://www.linkedin.com/in/ridwan-parvez/).
 
 </div>
