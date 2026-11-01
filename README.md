@@ -63,14 +63,23 @@ A selection of public projects exploring analytics, dashboards, and business pro
 
 ## GitHub at a glance
 
+A quick, live snapshot of my public GitHub profile. These lightweight badges use Shields.io and GitHub's public profile data?no third-party stats-card service required.
+
 <div align="center">
-  <a href="https://github.com/RidwanParvez24">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=RidwanParvez24&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ridwan's GitHub statistics">
-  </a>
-  <a href="https://github.com/RidwanParvez24?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidwanParvez24&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages in Ridwan's public repositories">
-  </a>
+
+[![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRidwanParvez24&query=%24.public_repos&label=Public%20repositories&logo=github&color=2ea44f&style=for-the-badge)](https://github.com/RidwanParvez24?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/RidwanParvez24?label=Followers&logo=github&color=3273dc&style=for-the-badge)](https://github.com/RidwanParvez24)
+[![Stars](https://img.shields.io/github/stars/RidwanParvez24?affiliations=OWNER&label=Repository%20stars&logo=github&color=f1c40f&style=for-the-badge)](https://github.com/RidwanParvez24?tab=repositories)
+
 </div>
+
+### Explore the work
+
+| Focus | Take a look |
+| --- | --- |
+| **Retail & e-commerce** | [Coffee Shop Sales](https://github.com/RidwanParvez24/Retail_Analytics_Engine_Coffee_Shops_Sales) ? [Blinkit Analytics](https://github.com/RidwanParvez24/Blinkit_Data_Analytics) |
+| **BI & dashboards** | [Credit Card Dashboard](https://github.com/RidwanParvez24/Financial_Dashboard_Credit_Card_Analytics) ? [HR Analytics](https://github.com/RidwanParvez24/HR_Analytic_Dashboard_Employee_Attrition) |
+| **Operations & supply chain** | [Inventory Management](https://github.com/RidwanParvez24/Inventory_Management_System_Supply_Chain_Optimization) ? [Excel Sales Analysis](https://github.com/RidwanParvez24/Coffee_shop_sell) |
 
 ---
 
