@@ -76,9 +76,9 @@ A quick, live snapshot of my public GitHub profile. These lightweight badges use
 
 | Focus | Take a look |
 | --- | --- |
-| **Retail & e-commerce** | [Coffee Shop Sales](https://github.com/RidwanParvez24/Retail_Analytics_Engine_Coffee_Shops_Sales) | [Blinkit Analytics](https://github.com/RidwanParvez24/Blinkit_Data_Analytics) |
-| **BI & dashboards** | [Credit Card Dashboard](https://github.com/RidwanParvez24/Financial_Dashboard_Credit_Card_Analytics) | [HR Analytics](https://github.com/RidwanParvez24/HR_Analytic_Dashboard_Employee_Attrition) |
-| **Operations & supply chain** | [Inventory Management](https://github.com/RidwanParvez24/Inventory_Management_System_Supply_Chain_Optimization) | [Excel Sales Analysis](https://github.com/RidwanParvez24/Coffee_shop_sell) |
+| **Retail & e-commerce** | [Coffee Shop Sales](https://github.com/RidwanParvez24/Retail_Analytics_Engine_Coffee_Shops_Sales) / [Blinkit Analytics](https://github.com/RidwanParvez24/Blinkit_Data_Analytics) |
+| **BI & dashboards** | [Credit Card Dashboard](https://github.com/RidwanParvez24/Financial_Dashboard_Credit_Card_Analytics) / [HR Analytics](https://github.com/RidwanParvez24/HR_Analytic_Dashboard_Employee_Attrition) |
+| **Operations & supply chain** | [Inventory Management](https://github.com/RidwanParvez24/Inventory_Management_System_Supply_Chain_Optimization) / [Excel Sales Analysis](https://github.com/RidwanParvez24/Coffee_shop_sell) |
 
 ---
 
